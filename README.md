@@ -1,5 +1,5 @@
 # Text2Speech-Converter
-Link:
+Link:https://github.com/snehallate/Text2Speech-Converter
 
 A simple Python GUI application that converts **Text to Speech** and **Speech to Text** using Google's Speech APIs.
 Built using **Python**, **Tkinter**, **gTTS**, and **SpeechRecognition**.
